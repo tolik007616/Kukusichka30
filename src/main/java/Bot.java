@@ -183,7 +183,7 @@ public class Bot extends TelegramLongPollingBot {
         }
 
 
-        return "Бе-Бе-Бе Не понимаю тебя";
+        return "Бе-Бе-Бе Не понимаю тебяипипкикпип";
     }
 
 
